@@ -1,0 +1,14 @@
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\bin\Debug\projeto-desktop.exe.config
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\bin\Debug\projeto-desktop.exe
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\bin\Debug\projeto-desktop.pdb
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto-desktop.csprojAssemblyReference.cache
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto_desktop.frmLogin.resources
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto_desktop.Properties.Resources.resources
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto_desktop.frmPrincipalAdmin.resources
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto_desktop.frmPrincipalUsuario.resources
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto-desktop.csproj.GenerateResource.cache
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto-desktop.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto-desktop.exe
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto-desktop.pdb
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto_desktop.frmCadastro.resources
+C:\Users\GABRIELA\Desktop\senai-projeto-desktop-\projeto-desktop\obj\Debug\projeto_desktop.frmListaUsuario.resources
